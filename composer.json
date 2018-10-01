@@ -1,0 +1,17 @@
+{
+    "name": "wilder16/quete_simple_mvc",
+    "authors": [
+        {
+            "name": "Melissa Viltet",
+            "email": "melissaviltet@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+
+}
